@@ -15,6 +15,7 @@ div.pageName {
 }
 
 div.pageName p {
-	color: white;
+	font-color: white;
+	font-size: 20px;
 	align: center;
 }
