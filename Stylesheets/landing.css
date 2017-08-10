@@ -5,6 +5,7 @@ body {
 	margin: 0px
 }
 
-h1 {
+div.pageName h1 {
 	color: white;
+	align: center;
 }
