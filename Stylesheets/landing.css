@@ -14,7 +14,7 @@ div.pageName {
 	transform: translate(-50%, -50%)
 }
 
-div.pageName h1 {
+div.pageName p {
 	color: white;
 	align: center;
 }
