@@ -5,6 +5,16 @@ body {
 	margin: 0px
 }
 
+div.pageName {
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)
+}
+
 div.pageName h1 {
 	color: white;
+	align: center;
 }
