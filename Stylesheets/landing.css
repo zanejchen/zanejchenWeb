@@ -1,8 +1,18 @@
+html, body {
+	height: 100%;
+}
+
+html {
+	display: block;
+}
+
 body {
+	margin: 0px
 	background-image: url("/Pics/Woods.jpg");
 	background-repeat: no-repeat;
+	background-position: center;
 	background-size: cover;
-	margin: 0px
+	background-attachment: fixed;
 }
 
 div.pageName {
