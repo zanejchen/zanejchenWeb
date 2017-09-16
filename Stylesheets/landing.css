@@ -1,7 +1,7 @@
 body {
 	background-image: url("/Pics/Woods.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: cover;
 	margin: 0px
 }
 
